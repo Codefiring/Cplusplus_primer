@@ -1,0 +1,11 @@
+The size of bool:          1 bytes -- 8 bits
+The size of char:          1 bytes -- 8 bits
+The size of wchar_t:       2 bytes -- 16 bits
+The size of char16_t:      2 bytes -- 16 bits
+The size of char32_t       4 bytes -- 32 bits
+The size of int:           4 bytes -- 32 bits
+The size of long:          4 bytes -- 32 bits
+The size of long long:     8 bytes -- 64 bits
+The size of float: 	       4 bytes -- 32 bits
+The size of double:        8 bytes -- 64 bits
+The size of long double:   8 bytes -- 64 bits
