@@ -6,4 +6,3 @@ The things when I learn Cpp primer 5th.
 ### Section 2.1 Primitive Built-in Types
 size_exp: shows the basic size of those type in my computer.
 
-
